@@ -83,19 +83,16 @@ This project aims to create a choice-driven narrative game at a smaller scale. T
 - Maram Hossam
 - Nour ElFaramawy
 - Mark Sherif
-- Nada Medhat
+- Nada Aiman
 
 ## Credits
 
 This project was developed by [our team]. We would like to acknowledge the following resources and tools:
 
-- **3D Models**: [https://sketchfab.com/]
-- **Audio**: [Gesaffelstein / daniel.mp3]
-- **Animations**: [https://www.mixamo.com/]
+- **3D Models**: https://sketchfab.com/
+- **Audio**: Gesaffelstein / daniel.mp3
+- **Animations**: https://www.mixamo.com/
 - **Game Engine**: Unity
 
-For a detailed flowchart of the game's decision points, visit our flowchart [here](https://docs.google.com/drawings).
+For a detailed flowchart of the game's decision points, visit our flowchart [here]([https://docs.google.com/drawings](https://docs.google.com/drawings/d/1QpNQcunVt1E4sH0P-eRJ9UocmSXVlGICHv7cihkp-WM/edit)).
 
----
-
-This README should provide a clear and comprehensive overview of your project, making it easy for others to understand and set up the game. Adjust the URLs, team member names, and credits as necessary to fit your actual project details. 
