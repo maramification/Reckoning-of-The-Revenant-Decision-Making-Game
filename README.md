@@ -87,7 +87,7 @@ This project aims to create a choice-driven narrative game at a smaller scale. T
 
 ## Credits
 
-This project was developed by [our team]. We would like to acknowledge the following resources and tools:
+This project was developed by our team. We would like to acknowledge the following resources and tools:
 
 - **3D Models**: https://sketchfab.com/
 - **Audio**: Gesaffelstein / daniel.mp3
