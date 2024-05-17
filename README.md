@@ -94,5 +94,5 @@ This project was developed by [our team]. We would like to acknowledge the follo
 - **Animations**: https://www.mixamo.com/
 - **Game Engine**: Unity
 
-For a detailed flowchart of the game's decision points, visit our flowchart [here] (https://docs.google.com/drawings/d/1QpNQcunVt1E4sH0P-eRJ9UocmSXVlGICHv7cihkp-WM/edit).
+For a detailed flowchart of the game's decision points, visit our flowchart [here](https://docs.google.com/drawings/d/1QpNQcunVt1E4sH0P-eRJ9UocmSXVlGICHv7cihkp-WM/edit).
 
